@@ -59,6 +59,7 @@
 ### 1) 변수 데이터 셋
 
 ![image](https://user-images.githubusercontent.com/44190559/95221852-d7fcfb80-0832-11eb-9072-1c3cd2fcdb3f.png)
+![image](https://user-images.githubusercontent.com/44190559/95482544-3bb92d00-09c9-11eb-85bb-30343330df8a.png)
 
 
 - 향후 머신 러닝에 사용될 수 있는 변수 데이터 셋을 확보
